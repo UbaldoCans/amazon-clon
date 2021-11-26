@@ -1,2 +1,3 @@
-# amazon-clon
-clonando home page de amazon
+# Javascript Week
+
+🧑‍💻 Coding by [Jose Luiz Rodrigues](https://www.github.com/zeluizr)
